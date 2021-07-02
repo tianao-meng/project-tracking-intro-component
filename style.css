@@ -196,11 +196,12 @@ button {
     justify-content: center;
     margin: 0;
   }
+
   .nav ul li {
     margin: 20px 0;
   }
   .nav ul :first-child {
-    margin-top: 0;
+    margin-top: -20px;
   }
   .nav ul li a {
     font-size: 20px;
